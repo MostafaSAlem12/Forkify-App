@@ -62,7 +62,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://mostafa-forkify.netlify.app/)
+
 
 This project is a part of the course provided by jonas and owner reserved the rights. You can check the course at the below link. 
 
