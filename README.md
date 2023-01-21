@@ -130,7 +130,7 @@ Start with the latest version of NPM to avoid any errors:
 
 ## Roadmap
 
-for a list of proposed features (and known issues).
+
 
 ### Proposed features
 
