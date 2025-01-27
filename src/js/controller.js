@@ -22,6 +22,7 @@ const recipeContainer = document.querySelector('.recipe');
 
 
 // https://forkify-api.herokuapp.com/v2
+// https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
 
